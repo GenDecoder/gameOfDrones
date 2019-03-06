@@ -1,8 +1,13 @@
-# PROCURATIO
+# GAMES OF DRONES
 
-This is a chess management application to be applied to the school.
+Game application to play ROCK, PAPER, SCISSORS
   
-## To Do
+## How to run it
+
+Once the project is cloned, go to the directory and:
+* Run `npm install`
+* Run `npm run dev`
+A new tab must be open in your browser.
 
 ## Author
 
